@@ -1,0 +1,1 @@
+Sharing Logging (Logging functionality) Layer with other Lambda functions through lambda layer
